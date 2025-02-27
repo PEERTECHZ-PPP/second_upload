@@ -1,1 +1,1 @@
-thired
+Modifying files locally does not automatically change them in GitHub. You need to follow these steps to update GitHub with your local changes:

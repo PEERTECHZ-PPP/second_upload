@@ -1,1 +1,6 @@
-fourth
+Steps to Push Local Changes to GitHub:
+Modify Files Locally – Edit the files as needed.
+Check Status – Run git status to see the modified files.
+Stage the Changes – Use git add <filename> or git add . to stage all changes.
+Commit the Changes – Run git commit -m "Your commit message" to save changes locally.
+Push to GitHub – Use git push origin <branch-name> to update GitHub with your changes.
